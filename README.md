@@ -10,6 +10,8 @@
 [![Memory Usage](https://img.shields.io/badge/Memory-11.8MB-orange.svg)](https://github.com/Agnuxo1/CHIMERA-v3)
 
 ---
+![Chimera_Chess6](https://github.com/user-attachments/assets/16dbe2a6-e909-47a9-a727-a38796673f21)
+
 
 ## 🌟 Revolutionary Concept
 
@@ -80,6 +82,8 @@ Estimated Elo: 2040 ± 40 (Master Level)
 ```
 
 ---
+![Chimera_Chess2](https://github.com/user-attachments/assets/310e6f3d-fba3-4969-b78f-09abf45b6338)
+
 
 ## 🎯 Key Features
 
@@ -156,6 +160,7 @@ graph TB
 │  └────────────────────────────────────────────┘  │
 └──────────────────────────────────────────────────┘
 ```
+![CHIMERA](https://github.com/user-attachments/assets/2ecd3b97-36ad-49ac-a3d9-2ad10dc8774a)
 
 ### Diffusion Process Visualization
 
@@ -220,6 +225,7 @@ On first execution, CHIMERA will:
 | **Mouse** | Hover to see legal moves |
 
 ---
+![Chimera_Chess5](https://github.com/user-attachments/assets/ad8e1f7b-af51-4944-985d-22215ae50173)
 
 ## 🎮 How to Play
 
@@ -311,6 +317,7 @@ What happens when we remove components?
 | 3×3 diffusion (vs 5×5) | 1980 | -60 | Less spatial context |
 
 **Key Insight:** Master patterns contribute ~600 Elo — they ARE the intelligence.
+![Chimera_Chess8](https://github.com/user-attachments/assets/c2084ba4-c085-44e0-af6e-d561aaed2b0f)
 
 ### Opponent Performance
 
@@ -390,6 +397,7 @@ Total: ~4.3ms per position evaluation
 ```
 
 ---
+![Chimera_Chess7](https://github.com/user-attachments/assets/14dbbb53-c50b-4a64-9cb3-bd69244f08d9)
 
 ## 🎯 Use Cases
 
@@ -558,6 +566,7 @@ We welcome contributions! Areas needing work:
 | **Parallelism** | Multi-core | GPU | Single | GPU | **Massive GPU** |
 
 ---
+![Chimera_Chess2](https://github.com/user-attachments/assets/866621e3-f316-4378-8d0e-b7dd1ae0b019)
 
 ## 🏆 Achievements
 
