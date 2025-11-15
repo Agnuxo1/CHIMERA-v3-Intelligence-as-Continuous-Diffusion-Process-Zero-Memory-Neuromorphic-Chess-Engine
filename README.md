@@ -566,7 +566,8 @@ We welcome contributions! Areas needing work:
 | **Parallelism** | Multi-core | GPU | Single | GPU | **Massive GPU** |
 
 ---
-![Chimera_Chess2](https://github.com/user-attachments/assets/866621e3-f316-4378-8d0e-b7dd1ae0b019)
+![Chimera_Chess](https://github.com/user-attachments/assets/7d2404dd-a1f7-478d-93eb-3a68eec3f5eb)
+
 
 ## 🏆 Achievements
 
@@ -789,3 +790,4 @@ any purpose, even commercially, as long as you give appropriate credit.
 Made with 🧠 and ⚡ in Madrid, Spain
 
 </div>
+<img width="1536" height="1024" alt="chimera1" src="https://github.com/user-attachments/assets/51deb1de-48b6-45bf-bf90-50b675a19265" />
