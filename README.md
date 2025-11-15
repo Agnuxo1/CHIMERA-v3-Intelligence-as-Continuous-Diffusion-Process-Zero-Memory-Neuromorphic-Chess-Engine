@@ -697,6 +697,8 @@ any purpose, even commercially, as long as you give appropriate credit.
 - 📢 **Share your results** on social media
 
 ---
+![Chimera_Chess3](https://github.com/user-attachments/assets/6b3cd0c0-0ac1-4a53-8d77-0278ac934d7c)
+
 
 ## 🙏 Acknowledgments
 
